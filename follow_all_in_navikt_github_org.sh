@@ -2,7 +2,7 @@
 
 # Script to follow all users in navikt GitHub organization using the GitHub CLI (gh)
 # Usage: ./follow_all_in_navikt_github_org.sh [--dry-run]
-# Requires: GitHub CLI (gh) installed and authenticated
+# Requires: GitHub CLI (gh) installed and authenticated with 'user' scope
 
 ORG="navikt"
 PER_PAGE=100

@@ -1,3 +1,7 @@
+# follow-all-navikt-github-org
+One script to find them,
+One script to follow them all,
+And in the terminal print them
 # Requirements
 [GitHub CLI (gh)](https://cli.github.com/) installed and authenticated this command
 ```bash

@@ -1,5 +1,8 @@
 # Requirements
-GitHub CLI (gh) installed and authenticated (gh auth login).
+[GitHub CLI (gh)](https://cli.github.com/) installed and authenticated this command
+```bash
+gh auth login
+```
 
 # Usage
 ```bash 
